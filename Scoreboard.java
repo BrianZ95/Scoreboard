@@ -7,7 +7,6 @@ public class Scoreboard
     private String activeTeam;
     public int switches=1;
 
-
 public Scoreboard(String one, String two)
     {
         teamOne = one;
